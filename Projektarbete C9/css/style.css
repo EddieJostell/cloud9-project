@@ -362,6 +362,77 @@ sponsorbox h3 {
     opacity: 0.3;
 }
 
+#zowie img {
+    width: 300px;
+    height: 300px;
+    margin-top: 50px;
+    opacity: 0.3;
+    float: left;
+    clear: both;
+    padding-left: 10px;
+    margin-bottom: 5px;
+}
+
+#msi img {
+    width: 300px;
+    height: 300px;
+    margin-top: 50px;
+    padding-right: 10px;
+    float: right;
+    opacity: 0.3;
+}
+
+#intel img {
+    width: 300px;
+    height: 300px;
+    margin-top: 50px;
+    opacity: 0.3;
+    float: left;
+    clear: both;
+    padding-left: 10px;
+    margin-bottom: 5px;
+}
+
+#nvidia img {
+    width: 300px;
+    height: 300px;
+    margin-top: 50px;
+    padding-right: 10px;
+    float: right;
+    opacity: 0.3;
+}
+
+#crunchyroll img {
+    width: 300px;
+    height: 300px;
+    margin-top: 50px;
+    opacity: 0.3;
+    float: left;
+    clear: both;
+    padding-left: 10px;
+    margin-bottom: 5px;
+}
+
+#redbull img {
+    width: 300px;
+    height: 300px;
+    margin-top: 50px;
+    padding-right: 10px;
+    float: right;
+    opacity: 0.3;
+}
+
+#needforseat img {
+    width: 300px;
+    height: 300px;
+    margin-top: 50px;
+    opacity: 0.3;
+    float: left;
+    clear: both;
+    padding-left: 10px;
+    margin-bottom: 5px;
+}
+
 /*Contact Page*/
 #teampic {
     margin-left: 220px;
