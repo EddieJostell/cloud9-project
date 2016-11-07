@@ -203,7 +203,7 @@ html, body {
     width: 100px;
     height: 100px;
 }
-#hiko {
+#stewie2k {
    float: left;
    clear: both;
    margin-left: 50px;
@@ -213,7 +213,7 @@ html, body {
     float: right;
     margin-right: 20px;
 }
-#sgares {
+#autimatic {
     margin-left: 50px;
     margin-top: 20px;
     clear: both;
@@ -223,11 +223,16 @@ html, body {
     margin-right: 15px;
     float: right;
 }
-#semp {
+#skadoodle {
     margin-left: 50px;
     margin-top: 20px;
     clear: both;
     float: left;
+}
+
+#danan {
+    margin-right: 15px;
+    float: right;
 }
 
 /*Results Page*/
