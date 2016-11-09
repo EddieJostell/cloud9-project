@@ -132,6 +132,23 @@ body {
     font-size: 20px;
     font-family: 'Century Gothic';
 }
+
+.responsive-video {
+position: relative;
+padding-bottom: 56.25%;
+padding-top: 60px; overflow: hidden;
+
+}
+
+
+.responsive-video iframe,
+.responsive-video object,
+.responsive-video embed {
+
+width: 800px;
+height: 400px;
+}
+
 #ytlink {
     color: black;
 }
@@ -145,7 +162,7 @@ body {
     list-style-type: none;
     color: black;
     font-family:'Agency FB';
-    font-size: 40px;
+    font-size: 25px;
    
 }
 #menubox2 li {

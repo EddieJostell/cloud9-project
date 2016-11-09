@@ -1,4 +1,4 @@
-/*formulär*/
+/*formulï¿½r*/
 
 function validateForm() {
     var validerad = true;
@@ -40,11 +40,11 @@ function validateForm() {
 }
 
 
-//Tema ändring//
+//Tema ï¿½ndring//
 
 function changethemeonPage() {
     
-    var invertStyle = document.getElementById("mycoolstyle").getAttribute("href")
+    var invertStyle = document.getElementById("mycoolstyle").getAttribute("href");
 
     if (invertStyle == "css/style.css")
         invertStyle = "css/style2.css";
@@ -56,22 +56,22 @@ function changethemeonPage() {
 
 /* IMAGE SLIDER*/
 //Variables
-var altNumb = 0
-var imageNumb = 0
+var altNumb = 0;
+var imageNumb = 0;
 var img = [
-    "img/c9lan.jpg",
-    "img/cloud9LAN.jpg",
-    "img/cloud9team.jpg",
-    "img/cloud9logo.jpg",
-    "img/team.jpg"
+    "img/cloud9_2016.jpg",
+    "img/thankpapaShroud.jpg",
+    "img/cloud9_winner_eslpro2016.jpg",
+    "img/Cloud-9_logo.png",
+    "img/Cloud9hyperX.png"
 ];
 
 var alt = [
-    "Cloud9 Cologne match picture",
-    "Cloud9 @ LAN",
-    "Cloud9 teampicture",
-    "Cloud9 Logo",
-    "Cloud9 teampicture"
+    " Cloud9 Lineup 2016",
+    " Cloud9 ESL Pro League",
+    " Cloud9 wins ESL Pro League",
+    " Cloud9 Logo",
+    " Cloud9 HyperX"
 ];
 setInterval(goRight, 2000);
 
